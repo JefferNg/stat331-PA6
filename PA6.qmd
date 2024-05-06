@@ -4,3 +4,8 @@ format: html
 editor: visual
 embed-resources: true
 ---
+
+```{r}
+13*13
+
+```
