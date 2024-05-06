@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: Elizabeth Boland, Jeffer Ng, Jack Colt, Jenna Chan
 format: html
 editor: visual
 embed-resources: true
