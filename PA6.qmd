@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Jack, Elizabeth, Jenna, Jeffer"
 format: html
 editor: visual
 embed-resources: true
